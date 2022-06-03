@@ -11,6 +11,10 @@ A developer portfolio website gives potential employers valuable information abo
 You can make a cool portfolio website for yourself with HTML, CSS, and JavaScript.
 I'll put the project's HTML, CSS, JavaScript, icons, and images in their appropriate directories.
 
+## Installation & Setup
+- Download the personal portfolio Zip file folder through the github.
+- Extract it & run it through google chrome.
+
 ## Screenshots
 #### Header
 <img src="https://github.com/nipunid/Personal-Portfolio/blob/master/img/portfolio_01.png?raw=true" alt="drawing" style="width:50%">
@@ -33,6 +37,7 @@ I'll put the project's HTML, CSS, JavaScript, icons, and images in their appropr
 #### Contact Me 
 <img src="https://github.com/nipunid/Personal-Portfolio/blob/master/img/portfolio_08.png?raw=true" alt="drawing" style="width:50%">
 
-# Make Portfolio Website Responsive
+## Make Portfolio Website Responsive
 We'll use CSS media queries and Flexbox to process of making web pages responsive.
 <img src="https://github.com/nipunid/Personal-Portfolio/blob/master/img/media.png?raw=true" alt="drawing" style="width:50%">
+
